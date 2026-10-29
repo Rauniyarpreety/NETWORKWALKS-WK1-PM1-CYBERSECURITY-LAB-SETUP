@@ -3,8 +3,6 @@
 ## 1. VirtualBox Setup
 ![VirtualBox Manager](screenshots/virtualbox.png)
 
-![VirtualBox Configuration](screenshots/virtualbox2.png)
-
 ## 2. Kali Linux Desktop
 ![Kali Linux Desktop](screenshots/kali-desktop.png)
 
